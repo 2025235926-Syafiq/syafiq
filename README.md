@@ -12,7 +12,7 @@ Java, SQL, NetBeans IDE, YOLOv5 / YOLOv8, Git
 
 ## Projects
 - Inventory Management System: A Java web-based application utilizing Servlets, JSP, and MariaDB for streamlined stock tracking.
--Lecstur Appointment System: A java web-bassed application using HTML
+- Lecstur Student- lecturer Appointment System: A java web-bassed application using HTML
 
 ## Contact
 - LinkedIn: [your profile link]
